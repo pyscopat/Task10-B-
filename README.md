@@ -32,5 +32,5 @@
 
 1. **Clone the repo**  
  ```bash
- git clone https://github.com/<your‑user>/auto-recon-bash.git
+ git clone https://github.com/pyscopat/Task10-B-.git
  cd auto-recon-bash
